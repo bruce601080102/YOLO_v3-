@@ -1,0 +1,12 @@
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img306.jpg 91,153,168,231,0 312,111,506,306,0 365,360,487,486,0 190,311,321,455,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img318.jpg 62,30,460,465,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img403.jpg 78,141,334,387,0 343,224,464,333,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img500.jpg 232,91,373,234,0 183,251,382,468,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img507.jpg 91,153,168,231,0 312,111,506,306,0 365,360,487,486,0 190,311,321,455,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img741.jpg 107,98,437,437,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img766.jpg 107,17,278,192,0 253,225,487,462,0 106,265,211,365,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img804.jpg 26,192,212,373,0 220,254,302,331,0 334,252,482,386,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img944.jpg 157,154,351,352,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img967.jpg 107,17,278,192,0 253,225,487,462,0 106,265,211,365,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img1105.jpg 62,202,163,303,0 181,189,314,325,0 434,51,502,119,0
+E:\aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\YOLO\k_yolo\yolo\keras-yolo3-master_200/data/VOC2007/JPEGImages/img1112.jpg 20,114,106,197,0 126,281,284,435,0 326,335,467,471,0 268,83,483,285,0

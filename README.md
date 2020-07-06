@@ -1,4 +1,7 @@
-YOLO_v3-分割法結果
+# YOLO_v3-分割法結果
+
+本研究是使用物體檢測的技術嘗試結合航測標記點的辨識，有利於未來自動化刺點的應用，在這方面的領域，不需要快速的辨識速度，但是需要準確的辨識率及精準範圍選取，
+
 
 ### 主要特性
 
@@ -15,3 +18,9 @@ YOLO的缺點在於對於範圍廣闊的目標辨識成效不彰，對於小範�
 ![image](https://github.com/bruce601080102/YOLO_v3-/blob/master/img/%E6%A8%A1%E5%9E%8B%E6%AF%94%E8%BC%83%E6%95%88%E8%83%BD%E6%8C%87%E6%A8%99.png)
 #### 在距離上改善了yolo辨識的成果，並拉遠的辨識的距離
 ![image](https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/%E8%B7%9D%E9%9B%A2%E6%9B%B2%E7%B7%9A%E5%9C%96.png)
+### 左圖是一般使用yolov3的辨識成果，右邊則是分割過後的成果
+![image](https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/%E6%9C%AA%E5%91%BD%E5%90%8D-3.jpg) ![image](https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/%E5%88%86%E5%89%B2%E4%BA%94%E5%85%AC%E5%B0%BA.jpg)
+------------
+------------
+------------
+### 四分割法在越遠的距離越能體現成效，但是還是要取決於模型本身的能力

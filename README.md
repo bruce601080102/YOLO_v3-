@@ -33,9 +33,10 @@ tensorflow文件內的程式已經過優化，因此檢測速度從原本3秒，
 圖2:則是使用四分割法1024大小的尺寸
 
 圖3:則是無使用分割法直接將圖片放大至1024後給模型檢測
-
-## (1)![image](https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/3%E5%85%AC%E5%B0%BA416%E7%84%A1%E4%BD%BF%E7%94%A8.jpg)  (2)![image](https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/3%E5%85%AC%E5%B0%BA%E4%BD%BF%E7%94%A8.jpg)
-## (3)![image](https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/3%E5%85%AC%E5%B0%BA1024_%E7%84%A1%E4%BD%BF%E7%94%A8.jpg)
+## (1)    (2)  
+![image](https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/3%E5%85%AC%E5%B0%BA416%E7%84%A1%E4%BD%BF%E7%94%A8.jpg)  ![image](https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/3%E5%85%AC%E5%B0%BA%E4%BD%BF%E7%94%A8.jpg)
+## (3)
+![image](https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/3%E5%85%AC%E5%B0%BA1024_%E7%84%A1%E4%BD%BF%E7%94%A8.jpg)
 
 可以從結結果發現好像416的尺寸辨識度較高，但是這尺寸只適合在近距離的物體上，才有較好的成效，如果拉遠至10公尺，將會檢測不到任何東西，反之越大的尺寸則辨識的距離將會遠。
 尺寸拉至一定的大小將會使電腦記憶體不足或是檢測太久，以我的電腦為例，將尺寸放大至2024將會內顯不足，而將圖片放大至1024以上將會明顯的感受檢測速度變慢。

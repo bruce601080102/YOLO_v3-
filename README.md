@@ -58,3 +58,4 @@ tensorflow文件內的程式已經過優化，因此檢測速度從原本3秒，
 
 ### 後記:
 有考慮結合opencv去實現物體偵測，但是實作發現自由度不如直接使用分割法，不利於多角度的拍攝的照片，拉遠辨識距離還是得依靠分割法。
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=bruce601080102.ghiblog.issue.43)

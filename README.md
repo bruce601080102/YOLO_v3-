@@ -59,4 +59,5 @@ tensorflow文件內的程式已經過優化，因此檢測速度從原本3秒，
 ### 後記:
 有考慮結合opencv去實現物體偵測，但是實作發現自由度不如直接使用分割法，不利於多角度的拍攝的照片，拉遠辨識距離還是得依靠分割法。
 
-<a href="/atiksoftware/pubg_mobile_memory_hacking_examples/blob/master1"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatiksoftware%2Fpubg_mobile_memory_hacking_example" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatiksoftware%2Fpubg_mobile_memory_hacking_examples" style="max-width:100%;"></a>              
+<a href="/atiksoftware/pubg_mobile_memory_hacking_examples/blob/master1">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/2" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/2" style="max-width:100%;"></a>              

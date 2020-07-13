@@ -1,5 +1,5 @@
 <a href="/atiksoftware/pubg_mobile_memory_hacking_examples/blob/master1">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/bruce2" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/bruce2" style="max-width:100%;"></a> 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/brucesplit" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/brucesplit" style="max-width:100%;"></a> 
 
 # YOLO_v3-分割法結果
 #### 優化請看tensorflow_yolo_split文件
@@ -73,8 +73,6 @@ tensorflow文件內的程式已經過優化，因此檢測速度從原本3秒，
    <img src="https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/15m_512_opncv.jpg" alt="Sample"  width="416" height="416">
     <p align="center">
         <em>(a)-----------------------------------------</em>
-        <em>(b)</em>
-   
-    </p>
+        <em>(b)</em></p>
     
-</p>
+

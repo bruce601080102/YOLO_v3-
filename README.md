@@ -1,5 +1,6 @@
 <a href="/atiksoftware/pubg_mobile_memory_hacking_examples/blob/master1">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/2" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/2" style="max-width:100%;"></a> 
+
 # YOLO_v3-分割法結果
 #### 優化請看tensorflow_yolo_split文件
 本研究是使用物體檢測的技術嘗試結合航測標記點的辨識，有利於未來自動化刺點的應用，在這方面的領域，不需要快速的辨識速度，但是需要準確的辨識率及精準範圍選取。

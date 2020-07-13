@@ -1,5 +1,5 @@
 <a href="/atiksoftware/pubg_mobile_memory_hacking_examples/blob/master1">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/2" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/2" style="max-width:100%;"></a> 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/bruce2" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eagle705/bruce2" style="max-width:100%;"></a> 
 
 # YOLO_v3-分割法結果
 #### 優化請看tensorflow_yolo_split文件
@@ -56,10 +56,25 @@ tensorflow文件內的程式已經過優化，因此檢測速度從原本3秒，
 | 速度  |   0.1 s/img |   0.3 s/img  |0.6 s/img  |  1.7 s/img |
 |  超近距離 |   中等|   非常低|  低 |  非常低 |
 | 近距離  | 極佳  |   非常低|  中上 |中上   |
-| 遠距離  |  非常低 |  佳 | 中  |   極佳|
+| 遠距離  |  非常低 |  中 | 中  |   極佳|
 | 物體框選嚴謹度  |  中 |   中| 佳  |  佳 |
 
-### 後記:
-有考慮結合opencv去實現物體偵測，但是實作發現自由度不如直接使用分割法，不利於多角度的拍攝的照片，拉遠辨識距離還是得依靠分割法。
+### 7/13更新:
+使用opencv將框線範圍進行輪廓面積篩選，達到高精度辨識。
 
-             
+圖a是使用分割法在15公尺進行辨識，辨識數量20個
+
+圖b是使用分割法+opecv在15公尺進行辨識，辨識數量20個
+
+沒有使用分割技術，辨識數量是1個
+
+<p align="center">
+    <img src="https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/512_15.jpg" alt="Sample"  width="416" height="416">
+   <img src="https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/15m_512_opncv.jpg" alt="Sample"  width="416" height="416">
+    <p align="center">
+        <em>(a)-----------------------------------------</em>
+        <em>(b)</em>
+   
+    </p>
+    
+</p>

@@ -74,5 +74,21 @@ tensorflow文件內的程式已經過優化，因此檢測速度從原本3秒，
     <p align="center">
         <em>(a)-----------------------------------------</em>
         <em>(b)</em></p>
-    
+### 7/27更新:
+
+#### 航拍實測
+
+<p align="center">
+    <img src="https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/15m_%E7%84%A1%E4%BD%BF%E7%94%A8%E5%88%86%E5%89%B2.jpg" alt="Sample"  width="416" height="416">
+   <img src="https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/15m_%E4%BD%BF%E7%94%A8%E5%88%86%E5%89%B2.jpg" alt="Sample"  width="416" height="416">
+    <p align="center">
+        <em>(a)-----------------------------------------</em>
+        <em>(b)</em></p>
+
+<p align="center">
+    <img src="https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/%E7%84%A1.png" alt="Sample"  width="193" height="198">
+   <img src="https://github.com/bruce601080102/YOLO_v3-splite/blob/master/img/%E6%9C%89.png" alt="Sample"  width="193" height="198">
+    <p align="center">
+        <em>(a)-----------------------------------------</em>
+        <em>(b)</em></p>
 

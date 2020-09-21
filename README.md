@@ -5,7 +5,7 @@
 ## 優化或下載請使用tensorflow_yolo_split文件
 本研究是使用物體檢測的技術嘗試結合航測標記點的辨識，有利於未來自動化刺點的應用，在這方面的領域，不需要快速的辨識速度，但是需要準確的辨識率及精準範圍選取。
 
-###　-->分割法檔案位置為tensorflow_yolo_split/mode/yolo_test.py
+-->分割法檔案位置為tensorflow_yolo_split/mode/yolo_test.py
 
 
 
